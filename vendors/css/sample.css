@@ -28,7 +28,7 @@ header ul a {
 header li {
   list-style: none;
   padding: 15px;
-  font-size: 0.5rem;
+  font-size: 1rem;
 }
 header ul:after {
 }
@@ -40,22 +40,22 @@ header ul:after {
 }
 /* ここまでがheader部分の実装 */
 .main-header img {
-  width: 200px;
+  width: 300px;
   padding-top: 100px;
 }
 h1 {
-  font-size: 1.2rem;
+  font-size: 2rem;
 }
 /* main画像（白い「Achieve」の文字の画像）部分の実装 */
 .about p {
-  font-size: 0.2rem;
+  font-size: 1rem;
   padding-bottom: 20px;
 /* About Achieve部分の実装 */
 }
 /* ここから */
 .function {
   width: 100%;
-  height: 250px;
+  height: 350px;
   margin: 0 auto;
   background-color: #C0C0C0;
   padding-top: 15px;
@@ -71,9 +71,9 @@ h1 {
   position: relative;
   left: -50%;
   float: left;
-  width: 80px;
+  width: 150px;
   margin: 20px;
-  font-size: 0.1rem;
+  font-size: 1rem;
 }
 .function-image img {
   height: 70px;
@@ -82,13 +82,13 @@ h1 {
 
 /* ここまでがfunction部分の実装 */
 footer {
-  height: 50px;
+  height: 75px;
   background-color: #303c54;
   padding-top: 15px;
 }
 footer p {
-  padding-top: 3px;
-  font-size: 0.1rem;
+  padding-top: 0px;
+  font-size: 1rem;
   color: #fff;
 /* footer部分の実装 */
 }
